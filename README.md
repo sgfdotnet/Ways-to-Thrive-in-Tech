@@ -1,2 +1,10 @@
 # How-to-Thrive-in-Tech
-How to Thrive in Tech - April 2017
+
+Springfield .NET User Group
+
+Presented by Hannah Gavisk of Gravitate Solutions
+
+
+This repo contains the slide deck Hannah used during her presentation.  The presentation was not recorded, but feel free to ask additional questions on social media or reach out to individuals in the group.
+
+[Join our meetup](http://www.meetup.com/sgfdotnet) and find out about upcoming events!
