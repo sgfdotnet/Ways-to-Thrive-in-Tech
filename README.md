@@ -1,6 +1,4 @@
-# How-to-Thrive-in-Tech
-
-Springfield .NET User Group
+# Ways-to-Thrive-in-Tech
 
 Presented by Hannah Gavisk of Gravitate Solutions
 
